@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    background-color: lightgray;
+}
+
+
+
+a {color: black;
+text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+
+a:visited {
+    color: black;
+}
+
+.italics {
+    font-style: italic;
+}
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+.header {
+    text-decoration: underline;
+}
+
+.bigger {
+    font-size: 17px;
+}
+
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+
+.homebg {
+    background-image: url('../Images/byu_background.png');
+    background-position: top right;
+    /* background-repeat: ; */
+}
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+
+    /* border: 1px solid black; */
+}
+.box2 {
+    padding: 5px;
